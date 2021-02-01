@@ -1,2 +1,1 @@
-# RecipEasy
-iOS Recipe Saving/Sharing Application
+RecipEasy
